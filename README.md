@@ -32,11 +32,6 @@ A modern, secure Capture The Flag (CTF) platform built with React and TypeScript
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/toorsec-ctf.git
-cd toorsec-ctf
-```
 
 2. Install dependencies:
 ```bash
@@ -185,7 +180,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## Support
 
-For support, please email [sm9991432@gmail.com]
+For support, please email [Anony Abu Bolo]
 
 ## Acknowledgments
 
