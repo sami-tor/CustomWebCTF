@@ -31,7 +31,7 @@ A modern, secure Capture The Flag (CTF) platform built with React and TypeScript
 - npm or yarn
 
 ### Installation
-
+git clone https://github.com/sami-tor/CustomWebCTF
 
 2. Install dependencies:
 ```bash
